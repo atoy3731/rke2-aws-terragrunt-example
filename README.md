@@ -1,6 +1,6 @@
 # RKE2 AWS Terragrunt Example
 
-This is an example of implementing the [Terraform Modules](https://github.com/rancherfederal/rke2-aws-tf.git). See those docs for more information.
+This is an example of using [Terragrunt](https://terragrunt.gruntwork.io/) to implement the [Terraform Modules](https://github.com/rancherfederal/rke2-aws-tf.git). See those docs for more information.
 
 ## Getting Started
 
